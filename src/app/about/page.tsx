@@ -45,7 +45,7 @@ function page() {
 
         <div>
           <h1 className="text-3xl font-InterBo mt-7 my-3 dark:text-white text-neutral-800">
-            It's Me Masud Shaikh
+            Its Me Masud Shaikh
           </h1>
           <motion.p
             initial={{ y: 100, opacity: 0 }}
@@ -56,7 +56,7 @@ function page() {
             }}
             className="text-neutral-700 text-lg my-7 leading-8 font-InterRe dark:text-[#C0C0C0]"
           >
-            I'm Masud Shaikh, a student with lot of curiosity and excitment,
+            I amm Masud Shaikh, a student with lot of curiosity and excitment,
             currently residing in Mumbai, India. I have a deeppassion for 
             crafting purposeful interfaces and learning new Technologies.
             My main goal is to bridge the divide between people and technology,
@@ -97,7 +97,7 @@ function page() {
             className="text-neutral-700 text-lg my-7 leading-8 font-InterRe dark:text-[#C0C0C0]"
           >
             I am Masud Shaikh, a dedicated student currently pursuing a
-            Bachelor's degree in Software Engineering at Mumbai university
+            Bachelors degree in Software Engineering at Mumbai university
             in the India. My passion lies in staying at the forefront
             of cutting-edge technologies and design trends.Current I have 
             Interest on newest technologies and currently I am learrning web
@@ -113,11 +113,11 @@ function page() {
             }}
             className="text-neutral-700 text-lg my-7 leading-8 font-InterRe dark:text-[#C0C0C0]"
           >
-            When I'm not delving into the world of design, I find joy in exploring
+            When I am not delving into the world of design, I find joy in exploring
             new destinations and immersing myself in diverse cultures. My love for
             travel fuels my curiosity, and I take every opportunity to discover
-            unique places. Beyond that, I'm an avid table tennis enthusiast, always
-            up for a friendly match. When I unwind, you'll often find me engrossed
+            unique places. Beyond that, I am an avid table tennis enthusiast, always
+            up for a friendly match. When I unwind, you will often find me engrossed
             in various video games, exploring virtual worlds and challenging my
             gaming skills. Striking a balance between my passions,
             I believe in the importance of a healthy work-life equilibrium.
@@ -130,7 +130,7 @@ function page() {
           <div className="mx-auto max-w-md">
             <div>
               <h2 className=" text-4xl text-center dark:text-white text-[#353849] font-InterBo">
-                Let’s work together.
+                Lets work together.
               </h2>
               <p className="text-center mt-3 dark:text-neutral-300 text-[#666D80] text-lg">
                 Creating user experience and visual appealing design
@@ -176,7 +176,7 @@ function page() {
           <div className="bg-[#F6F8FA] dark:bg-[#2C2C2C] p-6  mt-4 rounded-md">
             <div className="text-center">
               <span className="text-neutral-700 dark:text-neutral-400">
-                © 2023 Masud's BlogPost 
+                © 2023 Masud BlogPost 
               </span>
               <p className="text-neutral-500">
                 By{" "}
