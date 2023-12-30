@@ -56,12 +56,13 @@ function page() {
             }}
             className="text-neutral-700 text-lg my-7 leading-8 font-InterRe dark:text-[#C0C0C0]"
           >
-            I am Masud Shaikh, a student with lot of curiosity and excitment,
-            currently residing in Mumbai, India. I have a deeppassion for 
-            crafting purposeful interfaces and learning new Technologies.
-            My main goal is to bridge the divide between people and technology,
-            transforming intricate challenges into meaningful and seamless
-            experiences.
+            I am Masud Shaikh, a student with a lot of curiosity 
+            and excitement, currently residing in Mumbai, India. I have
+            a passion for crafting purposeful interfaces and learning new
+            technologies. My main goal is to bridge the divide between 
+            people and technology, transforming intricate challenges into
+            meaningful and seamless experiences.
+
           </motion.p>
         </div>
 
