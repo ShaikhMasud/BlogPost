@@ -91,7 +91,7 @@ const Contact = () => {
             <div className="bg-white-800 p-6 rounded-lg shadow-md">
             <h1 className="text-4xl font-bold mb-4">My Contacts</h1>
             <p className="mb-4">
-              Hello! I'm available for new opportunities and collaborations. Feel free to reach out to me. Lets Make something together.
+              Hello! I am available for new opportunities and collaborations. Feel free to reach out to me. Lets Make something together.
             </p>
             <div className="mb-4">
               <strong>Email:</strong> shaikhmasud@507@gmail.com
