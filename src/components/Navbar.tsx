@@ -7,7 +7,7 @@ const Navbar = () => {
       <header className="fixed w-full top-0 left-0 z-20 text-white">
     <div className="container mx-auto py-4 px-6 flex items-center justify-between">
       <Link className="flex items-center text-gray-600 text-xl" href="/">
-        <h3>My BlogPost</h3>
+        <h3>Shaikh Masud</h3>
       </Link>
 
       <nav>
