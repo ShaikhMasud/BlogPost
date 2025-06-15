@@ -1,11 +1,3 @@
-### 📸 Front Page Preview
-
-![Masud BlogPost Homepage](https://raw.githubusercontent.com/your-username/your-repo-name/main/public/preview-home.png)
-
-Here's a polished and professional `README.md` for your **Next.js + TypeScript + Sanity Blog Project** hosted on Vercel:
-
----
-
 # 📝 Masud BlogPost – Next.js + Sanity Blog
 
 Live Site: 👉 [https://masudblogpost.vercel.app](https://masudblogpost.vercel.app)
